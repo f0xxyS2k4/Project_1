@@ -1,0 +1,248 @@
+Phim co doanh thu cao nhat:
+19995,tt0499549,9.432768,237000000,2781505847,Avatar,Sam Worthington|Zoe Saldana|Sigourney Weaver|Stephen Lang|Michelle Rodriguez,http://www.avatarmovie.com/,James Cameron,Enter the World of Pandora.,culture clash|future|space war|space colony|society,"In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",162,Action|Adventure|Fantasy|Science Fiction,Ingenious Film Partners|Twentieth Century Fox Film Corporation|Dune Entertainment|Lightstorm Entertainment,12/10/09,8458,7.1,2009,240886902.887613,2827123750.41189
+
+Phim co doanh thu thap nhat:
+10001,tt0096486,0.218145,0,0,Young Einstein,Yahoo Serious|Odile Le Clezio|Peewee Wilson|Su Cruickshank|John Howard,,Yahoo Serious,E=mcÂ²,atomic bomb|nobel prize|rock|albert einstein|marie curie,"Albert Einstein is the son of a Tasmanian apple farmer, who discovers the secret of splitting the beer atom to put the bubbles back into beer. When Albert travels to Sydney to patent his invention he meets beatuiful French scientist Marie Curie, as well as several unscrupulous types who try to take advantage of the naive genius and his invention.",91,Comedy|Science Fiction,Warner Bros.,12/15/88,19,4.2,1988,0,0
+
+Tong doanh thu tat ca bo phim:
+Tổng (Bash): $558,125,171,110
+
+Top 10 phim co loi nhuan cao nhat(theo logic revenue_adj - budjet_adj):
+$2,147,483,647 --- Star Wars
+$2,147,483,647 --- Avatar
+$2,147,483,647 --- Titanic
+$2,128,035,625 --- The Exorcist
+$1,878,643,094 --- Jaws
+$1,767,968,064 --- E.T. the Extra-Terrestrial
+$1,718,723,211 --- Star Wars: The Force Awakens
+$1,551,568,265 --- The Net
+$1,545,635,295 --- One Hundred and One Dalmatians
+$1,376,997,526 --- The Empire Strikes Back
+
+Dao dien co nhieu bo phim nhat:
+45 Woody Allen
+
+Dien vien dong nhieu phim nhat 
+71 Robert De Niro
+
+Thong ke so luong phim:
+   4707 Drama
+   3758 Comedy
+   2876 Thriller
+   2350 Action
+   1692 Romance
+   1620 Horror
+   1442 Adventure
+   1344 Crime
+   1213 Science Fiction
+   1213 Family
+    901 Fantasy
+    797 Mystery
+    698 Animation
+    517 Documentary
+    402 Music
+    331 History
+    267 War
+    187 Foreign
+    165 Western
+    164 TV Movie
+     10 "Asylum
+      8 Kennedy/Marshall Company
+      8 Jim Henson Company
+      6 Warner Bros.
+      6 "Screen Gems
+      5 Weinstein Company
+      5 "Walt Disney Pictures
+      5 "Universal Pictures
+      5 "Twentieth Century Fox Film Corporation
+      5 Sommers Company
+      5 "Paramount Pictures
+      4 Zanuck Company
+      4 Montecito Picture Company
+      4 Bedford Falls Company
+      3 "Warner Bros.
+      3 Tim Burton Productions
+      3 Nasser Group
+      3 Mirisch Corporation
+      2 Tyler Perry Company
+      2 Spyglass Entertainment
+      2 Relativity Media
+      2 "NGN Productions
+      2 "New Line Cinema
+      2 Moving Pictures
+      2 "Motion Picture Group
+      2 Malpaso Company
+      2 "Lions Gate Films
+      2 "Kennedy/Marshall Company
+      2 Jim Henson Productions
+      2 "Institution
+      2 "Geffen Company
+      2 Geffen Company
+      2 "Film Department
+      2 "DreamWorks SKG
+      2 Doha Film Institute
+      2 Cold Spring Pictures
+      2 "Bedford Falls Company
+      2 Associates & Aldrich Company
+      2 Afrodita Audiovisual
+      2 0
+      1 Yer Dead Productions
+      1  We Saw
+      1 "Weinstein Company
+      1 Vertigo Entertainment
+      1 Venture Forth
+      1 Vega
+      1 "USA Films
+      1 Universal 1440 Entertainment
+      1 "United Artists
+      1 uFilm
+      1 "Tyler Perry Company
+      1 "TriStar Pictures
+      1 TriStar Pictures
+      1 "Touchstone Television
+      1 Thunder Road Pictures
+      1 The Ladd Company
+      1 The Global Asylum
+      1 The Fyzz Facility
+      1 "The Asylum
+      1 "Thank You
+      1 "TelevisiÃ³n EspaÃ±ola TVE
+      1 Team Todd
+      1 Tarnished Angel
+      1 Tad Horino
+      1 "Summit Entertainment
+      1 "StudioCanal
+      1 Stonehearst Asylum
+      1 Stillking Films
+      1 Steve Oedekerk
+      1 Stephen Blackehart
+      1 Steel Company
+      1 Social Construct
+      1  Simon
+      1 "Showcase Entertainment
+      1 "Seven Arts Productions
+      1 Satan also has one son.
+      1 Samuel Goldwyn Company
+      1 Roth Films
+      1 "Renaissance Films
+      1 Reliance Entertainment
+      1 "Rainmaker Entertainment
+      1 Radius-TWC
+      1 Radar Pictures
+      1 Quinta Communications
+      1 Prima TV
+      1 Prelude Pictures
+      1 Poe Boy Productions
+      1 "Playhouse International Pictures
+      1 "Phalanx Productions
+      1 "Periscope Entertainment
+      1 Perfect Game
+      1 "Paramount Vantage
+      1 One Media
+      1 Oceana Media Finance
+      1 Now Is Good
+      1 NorthSee
+      1 Northern Ireland Screen
+      1 Nickelodeon Movies
+      1 "Mpower Pictures
+      1 "Montecito Picture Company
+      1 Misher Films
+      1 "Mirabai Films
+      1 Ministry of Film
+      1 Metanoia Films
+      1 MDP Worldwide
+      1 Maxim Magazine
+      1 Matt Lagan
+      1 Matt Foyer
+      1 Match Factory
+      1 "Matador Pictures
+      1 Marvel Entertainment
+      1 "Mandeville Films
+      1 "Malpaso Productions
+      1 Malpaso Productions
+      1 Mainframe Entertainment
+      1 Lynda Obst Productions
+      1 "Lucasfilm
+      1 Lone Runner Entertainment
+      1 "Living Films
+      1 Liu Chia-Yung
+      1 "Legendary Pictures
+      1 Lambrick Foundation
+      1 Kenio Films
+      1 Katalyst Films
+      1 Kanzaman
+      1 "K5 International
+      1 "Jim Henson Productions
+      1 "Jim Henson Company
+      1 Jennifer Tung
+      1 JCE Entertainment Ltd
+      1 Jackson/McHenry Company
+      1 "Isle of Man Film
+      1 "Insight Film Studios
+      1 Initial Entertainment Group (IEG)
+      1 Hui Lou Chen
+      1 Holding Pictures
+      1 "HighRoad Entertainment
+      1 He's the best man... money can buy.
+      1 Grosvenor Park Productions
+      1 "GNK Productions
+      1 "Geffen Pictures
+      1 Fyzz Facility Film One
+      1 "Future Films
+      1 Fusion Films
+      1 Furia de Titanes II
+      1 "Fresh One Productions
+      1 "France 2 CinÃ©ma
+      1 "Fork Films
+      1 Film Community
+      1 Film Afrika Worldwide
+      1 Feuer and Martin Production
+      1 Enigma Productions
+      1 "Emperor Multimedia Group (EMG)
+      1 EM Media
+      1 "Embassy Films
+      1 DreamWorks SKG
+      1 DreamWorks Pictures
+      1 Dreamher Productions
+      1 "Double Play
+      1 "Divine Inspiration
+      1 Dentsu
+      1 Deliverance Productions
+      1 "Crystal Sky Worldwide
+      1 "Cruise/Wagner Productions
+      1 "Crime Scene Pictures
+      1 Cott Productions
+      1 Columbia Pictures Corporation
+      1 "Columbia Pictures
+      1 "Cold Iron Pictures
+      1 Claraflora
+      1 Cine Mosaic
+      1 China Film Co-Production Corporation
+      1 Chicago Pacific Entertainment
+      1 "Cartier Productions
+      1 Carthago Films S.a.r.l.
+      1 Carousel Picture Company
+      1 Burnside Entertainment
+      1 British Film Institute (BFI)
+      1 "Big Talk Productions
+      1 Bella Productions
+      1 "Becker International
+      1 BBC Arena
+      1 Barry Lynch
+      1 "Bad Angels Productions
+      1 Bad Angels Productions
+      1 AV Club
+      1 Asylum
+      1 "Artina Films
+      1 Arcadia Motion Pictures
+      1 ApolloMovie Beteiligungs
+      1 ApolloMedia Distribution
+      1 Anonymous Content
+      1 Annie Abrams
+      1 Ambush Entertainment
+      1 "Amblin Entertainment
+      1 Amblin Entertainment
+      1 "Alphaville Films
+      1 Alphaville Films
+      1 Allied Stars
+      1 21 Laps Entertainment
